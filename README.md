@@ -43,6 +43,7 @@ Sekarang bisa lebih mudah dengan Gosint Toolkit v buatan markas osint v
 
 ### cara pakai
 
+
 • pkg update && pkg upgrade -y
 
 • pkg install python -y
@@ -50,6 +51,7 @@ Sekarang bisa lebih mudah dengan Gosint Toolkit v buatan markas osint v
 • pkg install git -y
 
 • git clone https://github.com/markasosintv/GosintToolkitv.git
+
 
 ### cara menjalankan 
 
