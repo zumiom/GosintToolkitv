@@ -14,6 +14,43 @@
 
 **⚠ Jangan cuma dilihat aja, follow Github-nya agar dapat info update terbaru! ⚠**
 
+
+### GosintToolkitv
+#### Mau tau informasi tersembunyi hanya dari sebuah Gmail?
+Sekarang bisa lebih mudah dengan Gosint Toolkit v buatan markas osint v
+
+
+##### fitur : 
+• Cek apakah Gmail terdaftar di Google
+
+• Download Avatar Gmail otomatis
+
+• Cari profil publik & sosial media terkait
+
+• Cek apakah email bocor di database breach
+
+• Generate Google ID & link ke Maps, Drive, Photos, Docs, Sites, Groups
+
+• Akses arsip lama Google+ via Wayback Machine
+
+• Mode All Scan → semua pemeriksaan sekaligus
+
+
+>  Cocok buat OSINT, investigasi, dan deteksi penipuan via email.
+
+###### “Satu Gmail bisa buka ribuan jejak digital...”
+
+
+### cara pakai
+
+• pkg update && pkg upgrade -y
+
+• pkg install python -y
+
+• pkg install git -y
+
+• gitu clone 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasosintv&layout=compact&bg_color=000000&title_color=D7B899&text_color=ffffff&border_color=3E2723" />
 </p>
