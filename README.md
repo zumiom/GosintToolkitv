@@ -67,13 +67,6 @@ Sekarang bisa lebih mudah dengan Gosint Toolkit v buatan markas osint v
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasosintv&layout=compact&bg_color=000000&title_color=D7B899&text_color=ffffff&border_color=3E2723" />
 </p>
 
-# Tech & Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,github,kali,linux,redhat,py" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=markasosintv&theme=dark&background=000000&ring=D7B899&fire=B8860B&currStreakLabel=B8860B&currStreakNum=ffffff&sideNums=ffffff&dates=D7B899&sideLabels=ffffff" alt="GitHub Streak" />
 </p>
