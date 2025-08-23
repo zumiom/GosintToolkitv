@@ -49,7 +49,17 @@ Sekarang bisa lebih mudah dengan Gosint Toolkit v buatan markas osint v
 
 • pkg install git -y
 
-• gitu clone 
+• gitu clone https://github.com/markasosintv/GosintToolkitv
+
+### cara menjalankan 
+
+• cd GosintToolkitv
+
+• python GosintToolkitv.py
+
+#### supports all terminals 
+
+### jika kalian suka klik tanda star/bintang di atas ⭐
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markasosintv&layout=compact&bg_color=000000&title_color=D7B899&text_color=ffffff&border_color=3E2723" />
