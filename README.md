@@ -49,7 +49,7 @@ Sekarang bisa lebih mudah dengan Gosint Toolkit v buatan markas osint v
 
 • pkg install git -y
 
-• gitu clone https://github.com/markasosintv/GosintToolkitv.git
+• git clone https://github.com/markasosintv/GosintToolkitv.git
 
 ### cara menjalankan 
 
