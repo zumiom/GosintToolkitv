@@ -16,9 +16,7 @@
 
 
 ### GosintToolkitv
-#### Mau tau informasi tersembunyi hanya dari sebuah Gmail?
-Sekarang bisa lebih mudah dengan Gosint Toolkit v buatan markas osint v
-
+> adalah sebuah tools osint Lengkap Gmail mencari informasi tentang Gmail.
 
 ##### fitur : 
 • Cek apakah Gmail terdaftar di Google
