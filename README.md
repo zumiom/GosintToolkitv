@@ -1,6 +1,6 @@
 <details>
   <summary>
-    <i class="fas fa-server" style="margin-right:6px;"></i> Servers
+    <i class="fas fa-user-secret" style="color:white; margin-right:6px;"></i> Servers
   </summary>
   <ul style="list-style:none; padding-left:20px; color:white; font-family:monospace;">
     <li><i class="fas fa-code" style="color:white; margin-right:6px;"></i> Coding</li>
